@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my Github Page!
+
+## About Me
+- I am Anushikha currently studying Computer Science.
+- I am currently learning fullstack.
+- I actively like to solve questions on leetcode and other platforms.
+- I also write blog in [Hashnode](https://hashnode.com/@Anushikha03)
+
+>[!TIP]
+>Always believe in youself!!:dart:
+
 
 <!--
 **anushi12/anushi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
