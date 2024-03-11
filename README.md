@@ -4,7 +4,7 @@
 - I am Anushikha currently studying Computer Science.
 - I am currently learning fullstack.
 - I actively like to solve questions on leetcode and other platforms.
-- I also write blog in [Hashnode](https://hashnode.com/@Anushikha03)
+- I also write blog in [Hashnode](https://hashnode.com/@Anushikha03) about things I have learnt.
 
 >[!TIP]
 >Always believe in youself!!:dart:
